@@ -1,7 +1,5 @@
 package dukeApp.files;
-
 import dukeApp.parse.Parse;
-
 import java.util.Scanner;
 
 public class Ui {

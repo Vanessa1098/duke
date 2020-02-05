@@ -10,7 +10,7 @@ checkstyle {
 }
 
 shadowJar {
-    archiveBaseName = "dukeApp.duke"
+    archiveBaseName = "duke"
     archiveVersion = "0.1.3"
     archiveClassifier = null
     archiveAppendix = null
@@ -24,7 +24,7 @@ test {
     useJUnitPlatform()
 }
 
-group 'seedu.dukeApp.duke'
+group 'seedu.duke'
 version '0.1.0'
 
 repositories {
